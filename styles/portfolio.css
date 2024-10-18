@@ -179,6 +179,10 @@ footer .social-links a:hover {
   background-color: var(--branding-color);
 }
 
+.about-image {
+  border-radius: 10px;
+}
+
 @media (max-width: 900px) {
   h1 {
     font-size: 44px;
